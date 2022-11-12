@@ -31,7 +31,7 @@
       <uniqueVersion>true</uniqueVersion>
       <id>myapp-snapshots</id>
       <name>myapp-snapshots</name>
-      <url>shttp://ec2-3-111-144-69.ap-south-1.compute.amazonaws.com:8081/repository/myapp-snapshots/</url>
+      <url>http://ec2-3-111-144-69.ap-south-1.compute.amazonaws.com:8081/repository/myapp-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
